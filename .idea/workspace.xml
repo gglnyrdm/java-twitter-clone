@@ -4,87 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ea3207-b334-4c52-9470-f215a7c67088" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/TwitterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/controller/CommentsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/controller/TweetsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/controller/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/dto/CommentsDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/dto/FollowsDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/dto/TweetsDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/dto/UsersDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Follows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/RoleName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Roles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/TweetType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Tweets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/TypeName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/exceptions/TwitterErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/exceptions/TwitterException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/exceptions/TwitterExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/CommentsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/FollowsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/TweetsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/UsersRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/CommentsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/CommentsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/FollowsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/FollowsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/TweetsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/TweetsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/UsersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/UsersServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/util/EntityConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/workintech/twitter/TwitterApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/TwitterApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/controller/CommentsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/controller/TweetsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/controller/UsersController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/dto/CommentsDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/dto/FollowsDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/dto/TweetsDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/dto/UsersDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Comments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Follows.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/RoleName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Roles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/TweetType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Tweets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/TypeName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/exceptions/TwitterErrorResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/exceptions/TwitterException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/exceptions/TwitterExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/repository/CommentsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/repository/FollowsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/repository/TweetsRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/repository/UsersRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/CommentsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/CommentsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/FollowsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/FollowsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/TweetsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/TweetsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/UsersService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/service/UsersServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/util/EntityConverter.class" afterDir="false" />
+    <list default="true" id="54ea3207-b334-4c52-9470-f215a7c67088" name="Changes" comment="edited">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/dto/RegistrationUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/UserRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/service/UserLoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/entity/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/workintech/twitter/repository/UsersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/entity/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/workintech/twitter/repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/workintech/twitter/repository/UsersRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +36,26 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "gglnyrdm"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "author": "gglnyrdm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="02177e16-74c0-434f-b574-33af6ec242c1" />
+        <option name="url" value="https://github.com/gglnyrdm/java-twitter-clone.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -156,6 +109,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704298443839</updated>
     </task>
+    <task id="LOCAL-00001" summary="edited">
+      <option name="closed" value="true" />
+      <created>1704990525497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704990525497</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited" />
   </component>
 </project>
